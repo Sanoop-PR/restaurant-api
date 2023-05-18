@@ -1,0 +1,318 @@
+{
+  "FoodDetails": [
+    {
+      "id":100, "name":"BIRIYANI","quanity":6557,"stock":"In Stock","color":"green","price":"$12","image":"https://img.freepik.com/free-photo/gourmet-chicken-biryani-with-steamed-basmati-rice-generated-by-ai_188544-13480.jpg?size=626&ext=jpg&ga=GA1.1.1784877130.1684322331&semt=sph","category":"non veg","revenue":"$2342","order":65
+    },
+    {
+      "id":101, "name":"FISH BIRIYANI","quanity":754,"stock":"Out Stock","color":"red","price":"$105","image":"https://img.freepik.com/free-photo/top-view-delicious-fish-meal-tray_23-2148734692.jpg?size=626&ext=jpg&ga=GA1.1.1784877130.1684322331&semt=ais","category":"non veg","revenue":"$2345","order":875
+    },
+    {
+      "id":102, "name":"CHICKEN MANDHI","quanity":8532,"stock":"In Stock","color":"green","price":"$223","image":"https://img.freepik.com/premium-photo/dum-chicken-biriyani-close-up-image-kerala-thalassery-biriyani-which-is-mixed-with-masala-yellow-colour-arranged-copper-serving-bowl-garnished-with-lemon-slices-placed-graphit_527904-2713.jpg?size=626&ext=jpg&ga=GA1.1.1784877130.1684322331&semt=sph","category":"non veg","revenue":"$5434","order":3656
+    },
+    {
+      "id":103, "name":"GHEE RICE","quanity":345,"stock":"In Stock","color":"green","price":"$75","image":"https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?size=626&ext=jpg&ga=GA1.1.1784877130.1684322331&semt=ais","category":"non veg","revenue":"$3233","order":6535
+    },
+    {
+      "id":104, "name":"FRIED NOODLES","quanity":345,"stock":"Out Stock","color":"red","price":"$421","image":"https://img.freepik.com/free-photo/top-view-delicious-noodles-concept_23-2148773775.jpg?size=626&ext=jpg&ga=GA1.1.1784877130.1684322331&semt=ais","category":"noodles","revenue":"$1034","order":974
+    },
+    {
+      "id":105, "name":"MUSHROOM NOODLES","quanity":8764,"stock":"In Stock","color":"green","price":"$978","image":"https://img.freepik.com/free-photo/top-view-high-protein-meal-assortment_23-2149089653.jpg?size=626&ext=jpg&ga=GA1.1.1784877130.1684322331&semt=ais","category":"noodles","revenue":"$2305","order":3165
+    },
+    {
+      "id":106, "name":"CORN SOUP","quanity":234,"stock":"In Stock","color":"green","price":"$45","image":"https://img.freepik.com/premium-photo/bowl-corn-chowee-with-garnishes-garnishes-generative-ai_97167-8868.jpg?size=626&ext=jpg&ga=GA1.1.1784877130.1684322331&semt=ais","category":"soup","revenue":"$407","order":542
+    },
+    {
+      "id":107, "name":"CHICKEN SIZZLING","quanity":6543,"stock":"Out Stock","color":"red","price":"$675","image":"https://th.bing.com/th/id/OIP.haPuUadl593FA78fMBObVAHaEK?w=311&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7","category":"non veg","revenue":"$987","order":661
+    },
+    {
+      "id":108, "name":"MAYONNAISE SALAD","quanity":2323,"stock":"Out Stock","color":"red","price":"$768","image":"https://th.bing.com/th/id/OIP.hDHPlp0bya9EUKim_Ecz-wHaHa?w=195&h=195&c=7&r=0&o=5&dpr=1.1&pid=1.7","category":"salads","revenue":"$2445","order":6258
+    },
+    {
+      "id":109, "name":"BEEF BIRIYANI","quanity":6542,"stock":"In Stock","color":"green","price":"$223","image":"https://th.bing.com/th/id/OIP.9Iw4A7RxASfjyo1uPyL95AHaHa?w=199&h=199&c=7&r=0&o=5&dpr=1.1&pid=1.7","category":"non veg","revenue":"$213","order":298
+    },
+    {
+      "id":110, "name":"LIME MOJITO","quanity":233,"stock":"In Stock","color":"green","price":"$91","image":"https://img.freepik.com/free-photo/mojito-drink-with-lime-lemon-mint-wood-table_1150-12269.jpg?size=626&ext=jpg&ga=GA1.1.1784877130.1684322331&semt=ais","category":"drinks","revenue":"$751","order":198
+    },
+    {
+      "id":111, "name":"CALAS","quanity":83,"stock":"In Stock","color":"green","price":"$34","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Elizabeths_6Ap2015_Bel_Calas.jpg/220px-Elizabeths_6Ap2015_Bel_Calas.jpg","category":"non veg","revenue":"$231","order":399
+    },
+    {
+      "id":112, "name":"CHEESESTEAK","quanity":867,"stock":"Out Stock","color":"red","price":"$729","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Cheesesteakwhiz.png/280px-Cheesesteakwhiz.png","category":"non veg","revenue":"$549","order":981
+    },
+    {
+      "id":113, "name":"SUSHI","quanity":6438,"stock":"Out Stock","color":"red","price":"$218","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Various_sushi%2C_beautiful_October_night_at_midnight.jpg/220px-Various_sushi%2C_beautiful_October_night_at_midnight.jpg","category":"non veg","revenue":"$3587","order":299
+    },
+    {
+      "id":114, "name":"CALM SOUP","quanity":1454,"stock":"In Stock","color":"green","price":"$697","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Clam_soup.JPG/800px-Clam_soup.JPG","category":"soup","revenue":"$9454","order":258
+    },
+    {
+      "id":115, "name":"SQUID COCKTAIL","quanity":357,"stock":"In Stock","color":"green","price":"$31","image":"https://craftandcocktails.co/wp-content/uploads/2016/10/spooky-Squid-ink-cocktails-4-of-18.jpg","category":"drinks","revenue":"$431","order":364
+    },
+    {
+      "id":116, "name":"CUP CAKE","quanity":972,"stock":"Out Stock","color":"red","price":"$745","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Chocolate_Cupcakes.jpg/480px-Chocolate_Cupcakes.jpg","category":"cake","revenue":"$8745","order":347
+    },
+    {
+      "id":117, "name":"BAGEL","quanity":3124,"stock":"Out Stock","color":"red","price":"$78","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bagel_with_sesame_3.jpg/220px-Bagel_with_sesame_3.jpg","category":"bread","revenue":"$5567","order":364
+    },
+    {
+      "id":118, "name":"HOT DOG","quanity":9764,"stock":"In Stock","color":"green","price":"$98","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hot_dog_with_mustard.png/220px-Hot_dog_with_mustard.png","category":"bread","revenue":"$9812","order":124
+    },
+    {
+      "id":119, "name":"MUFFIN","quanity":547,"stock":"In Stock","color":"green","price":"$28","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/02116jfMuffins_in_Philippinesfvf_02.jpg/200px-02116jfMuffins_in_Philippinesfvf_02.jpg","category":"bread","revenue":"$264","order":657
+    },
+    {
+      "id":120, "name":"DONUT","quanity":349,"stock":"Out Stock","color":"red","price":"$39","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Glazed-Donut.jpg/220px-Glazed-Donut.jpg","category":"bread","revenue":"$3468","order":249
+    }
+  ],
+  "orderList":[
+    {
+      "food":"DONUT","customerName":"Michel","orderStatus":"Delivered","color":"green","time":"10.20","price":"$12"
+    },
+    {
+      "food":"MUFFIN","customerName":"Robert","orderStatus":"Delivered","color":"green","time":"13.00","price":"$83"
+    },
+    {
+      "food":"HOT DOG","customerName":"William","orderStatus":"Pending","color":"red","time":"09.24","price":"$17"
+    },
+    {
+      "food":"SQUID COCKTAIL","customerName":"SQUID COCKTAIL","orderStatus":"Cancelled","color":"black","time":"15.38","price":"$99"
+    },
+    {
+      "food":"SUSHI","customerName":"Christopher","orderStatus":"Pending","color":"red","time":"17.23","price":"$208"
+    },
+    {
+      "food":"SANDWICH","customerName":"Peter","orderStatus":"Delivered","color":"green","time":"22.23","price":"$123"
+    },
+    {
+      "food":"SPAGHETTI","customerName":"Elizabeth","orderStatus":"Delivered","color":"green","time":"12.00","price":"$541"
+    },
+    {
+      "food":"SQUID COCKTAIL","customerName":"Jessica","orderStatus":"Cancelled","color":"black","time":"01.34","price":"$66"
+    },
+    {
+      "food":"HOT DOG","customerName":"Cancelled","orderStatus":"Delivered","color":"green","time":"09.24","price":"$17"
+    },
+    {
+      "food":"HOT DOG","customerName":"Karen","orderStatus":"Pending","color":"red","time":"19.24","price":"$17"
+    },
+    {
+      "food":"FRIED RICE","customerName":"William","orderStatus":"Cancelled","color":"black","time":"03.56","price":"$57"
+    },
+    {
+      "food":"FRIED RICE","customerName":"Lisa","orderStatus":"Pending","color":"red","time":"12.23","price":"$57"
+    },
+    {
+      "food":"CHICKEN SANDWICH","customerName":"Lisa","orderStatus":"Pending","color":"red","time":"11.43","price":"$235"
+    },
+    {
+      "food":"NOODLES","customerName":"Mary","orderStatus":"Delivered","color":"green","time":"04.56","price":"$165"
+    },
+    {
+      "food":"CORN SOUP","customerName":"Lisa","orderStatus":"Delivered","color":"green","time":"11.43","price":"$235"
+    },
+    {
+      "food":"BEEF BIRIYANI","customerName":"Andrew","orderStatus":"Pending","color":"red","time":"06.32","price":"$89"
+    },
+    {
+      "food":"MUSHROOM NOODLES","customerName":"Donna","orderStatus":"Cancelled","color":"black","time":"07.23","price":"$94"
+    },
+    {
+      "food":"FISH BIRIYANI","customerName":"Rebecca","orderStatus":"Pending","color":"red","time":"11.43","price":"$235"
+    },
+    {
+      "food":"CHICKEN MANDHI","customerName":"Melissa","orderStatus":"Delivered","color":"green","time":"11.43","price":"$235"
+    },
+    {
+      "food":"GHEE RICE","customerName":"Sandra","orderStatus":"Pending","color":"red","time":"11.43","price":"$235"
+    },
+    {
+      "food":"CHICKEN SIZZLING","customerName":"Carol","orderStatus":"Delivered","color":"green","time":"11.43","price":"$235"
+    }
+  ],
+  "weeks":{
+    "monday":[
+      {
+        "restaurant":"Almas Homemades","qty":5348,"Orders":"+34","color":"green","profit":23.6
+      },
+      {
+        "restaurant":"Ciao Cochin","qty":3465,"Orders":"-17","color":"red","profit":85.4
+      },
+      {
+        "restaurant":"Hotel Anandaas","qty":913,"Orders":"+84","color":"green","profit":98.4
+      },
+      {
+        "restaurant":"Buhari","qty":7246,"Orders":"+76","color":"green","profit":78.23
+      },
+      {
+        "restaurant":"Fast Feeding","qty":2348,"Orders":"-29","color":"red","profit":23.37
+      }
+    ],
+    "tuesday":[
+      {
+        "restaurant":"Almas Homemades","qty":313,"Orders":"-12","color":"red","profit":73.6
+      },
+      {
+        "restaurant":"Ciao Cochin","qty":985,"Orders":"+37","color":"green","profit":66
+      },
+      {
+        "restaurant":"Hotel Anandaas","qty":4672,"Orders":"+84","color":"green","profit":92.53
+      },
+      {
+        "restaurant":"Buhari","qty":2468,"Orders":"-6","color":"red","profit":62.27
+      },
+      {
+        "restaurant":"Fast Feeding","qty":145,"Orders":"-62","color":"red","profit":23.37
+      }
+    ],
+    "wednesday":[
+      {
+        "restaurant":"Almas Homemades","qty":444,"Orders":"+74","color":"green","profit":66.4
+      },
+      {
+        "restaurant":"Ciao Cochin","qty":2468,"Orders":"+87","color":"green","profit":88.43
+      },
+      {
+        "restaurant":"Hotel Anandaas","qty":5845,"Orders":"-46","color":"red","profit":55.5
+      },
+      {
+        "restaurant":"Buhari","qty":268,"Orders":"-15","color":"red","profit":32.27
+      },
+      {
+        "restaurant":"Fast Feeding","qty":6591,"Orders":"+22","color":"green","profit":45.05
+      }
+    ],
+    "thursday":[
+      {
+        "restaurant":"Almas Homemades","qty":9571,"Orders":"-74","color":"red","profit":34.4
+      },
+      {
+        "restaurant":"Ciao Cochin","qty":4985,"Orders":"+46","color":"green","profit":38.8
+      },
+      {
+        "restaurant":"Hotel Anandaas","qty":248,"Orders":"-60","color":"red","profit":28.5
+      },
+      {
+        "restaurant":"Buhari","qty":6541,"Orders":"+85","color":"green","profit":88.56
+      },
+      {
+        "restaurant":"Fast Feeding","qty":1657,"Orders":"+39","color":"green","profit":43.8
+      }
+    ],
+    "friday":[
+      {
+        "restaurant":"Almas Homemades","qty":313,"Orders":"-12","color":"red","profit":73.6
+      },
+      {
+        "restaurant":"Ciao Cochin","qty":985,"Orders":"+37","color":"green","profit":66
+      },
+      {
+        "restaurant":"Hotel Anandaas","qty":4672,"Orders":"+84","color":"green","profit":92.53
+      },
+      {
+        "restaurant":"Buhari","qty":2468,"Orders":"-6","color":"red","profit":62.27
+      },
+      {
+        "restaurant":"Fast Feeding","qty":145,"Orders":"-62","color":"red","profit":23.37
+      }
+    ]
+  },
+  "monthlyRevenue":[
+    {
+      "month":"January","weeks":{
+        "weekOne":32,
+        "weekTwo":87,
+        "weekThree":16,
+        "weekFour":78
+      }
+    },
+    {
+      "month":"February","weeks":{
+        "weekOne":25,
+        "weekTwo":45,
+        "weekThree":29,
+        "weekFour":84
+      }
+    },
+    {
+      "month":"March","weeks":{
+        "weekOne":19,
+        "weekTwo":75,
+        "weekThree":62,
+        "weekFour":49
+      }
+    },
+    {
+      "month":"April","weeks":{
+        "weekOne":82,
+        "weekTwo":26,
+        "weekThree":16,
+        "weekFour":16
+      }
+    },
+    {
+      "month":"May","weeks":{
+        "weekOne":37,
+        "weekTwo":24,
+        "weekThree":82,
+        "weekFour":39
+      }
+    },
+    {
+      "month":"June","weeks":{
+        "weekOne":24,
+        "weekTwo":95,
+        "weekThree":73,
+        "weekFour":15
+      }
+    },
+    {
+      "month":"July","weeks":{
+        "weekOne":28,
+        "weekTwo":64,
+        "weekThree":91,
+        "weekFour":37
+      }
+    },
+    {
+      "month":"August","weeks":{
+        "weekOne":26,
+        "weekTwo":24,
+        "weekThree":42,
+        "weekFour":17
+      }
+    },
+    {
+      "month":"September","weeks":{
+        "weekOne":52,
+        "weekTwo":63,
+        "weekThree":41,
+        "weekFour":85
+      }
+    },
+    {
+      "month":"October","weeks":{
+        "weekOne":32,
+        "weekTwo":87,
+        "weekThree":16,
+        "weekFour":78
+      }
+    },
+    {
+      "month":"November","weeks":{
+        "weekOne":29,
+        "weekTwo":87,
+        "weekThree":12,
+        "weekFour":34
+      }
+    },
+    {
+      "month":"December","weeks":{
+        "weekOne":68,
+        "weekTwo":15,
+        "weekThree":16,
+        "weekFour":81
+      }
+    }
+  ]
+  
+}
